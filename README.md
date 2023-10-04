@@ -15,3 +15,7 @@ A transformação dos dados é uma etapa essencial. Utilizei a função `transfo
 Para o carregamento dos dados transformados, criei a função `load_data_excel()`. Utilizei a biblioteca Pandas para salvar os dados transformados em um arquivo Excel (xlsx). A função `to_excel()` foi usada para criar o arquivo Excel a partir do DataFrame contendo os dados transformados. Escolhi o formato Excel para facilitar o compartilhamento e a visualização dos dados processados.
 
 O processo ETL é fundamental para preparar e organizar os dados, garantindo que estejam prontos para análise e utilização de forma eficiente.
+
+
+
+LINK COLAB - >  https://colab.research.google.com/drive/1ewazEdw6W3SNK6ePvCpcAmmrx1VKS2la#scrollTo=CrdGw2_oarTD
